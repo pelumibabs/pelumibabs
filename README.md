@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Focused and result-oriented individual with verifiable track record of IT projects delivery success. Excellent team leader and business savvy/analyst with strong inclination for agile technology solution and infrastructure for service excellence and business competitiveness. 
+***
+
+### Focused and result-oriented individual with verifiable track record of IT projects delivery success. Excellent team leader and business savvy/analyst with strong inclination for agile technology solution and infrastructure for service excellence and business competitiveness. 
+
+***
+
