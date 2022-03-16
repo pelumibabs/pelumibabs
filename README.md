@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/E80A491B-9C18-4E52-8B40-38F86EF1720A.png" width="25" class="center"/>Firebase
 
+* <img align = "left" src=“" width="30" class="center"/>CSS
+
+* <img align = "left" src=“" width="30" class="center"/>HTML
+
 ***
 
 ![](https://camo.githubusercontent.com/24a5dd5773b470e0729aa41ac52252e7839f808768f3d1d4bf10ae1aba233dc2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7468652d4a696e78697374266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
