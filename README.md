@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://user-images.githubusercontent.com/39142651/158639146-15b9a846-a444-45d7-b700-413b3a4e9db0.png" width="30" class="center"/>VS Code
 
-* <img align = "left" src="http://www.stickpng.com/img/icons-logos-emojis/tech-companies/firebase-logo" width="30" class="center"/>Firebase
+* <img align = "left" src="" width="30" class="center"/>Firebase
 
 ***
 
