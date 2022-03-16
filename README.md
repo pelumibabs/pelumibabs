@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/E80A491B-9C18-4E52-8B40-38F86EF1720A.png" width="25" class="center"/>Firebase
 
-* <img align = "left" src="" width="30" class="center"/>HTML
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/D889D61D-65EC-406A-A9BE-5248EAB9832A.png" width="30" class="center"/>HTML
 
 * <img align = "left" src="" width="30" class="center"/>CSS
 
