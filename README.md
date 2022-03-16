@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/D889D61D-65EC-406A-A9BE-5248EAB9832A.png" width="30" class="center"/>HTML
 
-* <img align = "left" src="" width="30" class="center"/>CSS
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/A47FF588-2AF9-4558-86FB-58FB91EAF5EF.webp" width="30" class="center"/>CSS
 
 ***
 
