@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ***
 
 * :man_technologist: Doing stuff at [OpenFactor Group](http://openfactorgroup.com) 
+* 🌱 Contemplating getting into NodeJs
