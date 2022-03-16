@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Oluwapelumi Babalola 👋
 
 <!--
 **pelumibabs/pelumibabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Focused and result-oriented individual with verifiable track record of IT projects delivery success. Excellent team leader and business savvy/analyst with strong inclination for agile technology solution and infrastructure for service excellence and business competitiveness. 
