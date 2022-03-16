@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ***
 
-*  Doing stuff at [OpenFactor Group](http://openfactorgroup.com) 
+* :man_technologist: Doing stuff at [OpenFactor Group](http://openfactorgroup.com) 
