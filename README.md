@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/A47FF588-2AF9-4558-86FB-58FB91EAF5EF.webp" width="30" height="30"/>CSS
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/2E19CAEB-291C-47BF-94CE-DD4E5C095B3B.png" width="30" height="30"/>JavaScript
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/9EE96B2A-49CE-4E8E-AB15-2FCB05C8EA88.png" width="30" height="30"/>JavaScript
 
 ***
 
