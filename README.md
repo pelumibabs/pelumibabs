@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 * :man_technologist: Doing stuff at [OpenFactor Group](http://openfactorgroup.com) 
 * 🌱 Contemplating getting into NodeJs
+* :handshake: Open for collaborations in Mobile App Development with Flutter/Android.
+* :handshake: Open for collaborations in Innovation and Startups
+* :new_moon_with_face: Fun fact: I do a little bit of UI design with Figma.
