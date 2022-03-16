@@ -1,4 +1,4 @@
-### Hi there! I'm Oluwapelumi Babalola 👋
+# Hi there! I'm Oluwapelumi Babalola 👋
 
 <!--
 **pelumibabs/pelumibabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
