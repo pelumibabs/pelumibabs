@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://user-images.githubusercontent.com/39142651/158639146-15b9a846-a444-45d7-b700-413b3a4e9db0.png" width="30" class="center"/>VS Code
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/E80A491B-9C18-4E52-8B40-38F86EF1720A.png" width="30" class="center"/>Firebase
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/E80A491B-9C18-4E52-8B40-38F86EF1720A.png" width="25" class="center"/>Firebase
 
 ***
 
