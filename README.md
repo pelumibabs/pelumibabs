@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://camo.githubusercontent.com/4ded50180a0204fbc9a1ac05faf77bba7fa0f092f42f5c714f7d450f878e5d62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e64726f69642f616e64726f69642d69636f6e2e737667" width="30" class="center"/>Android
 
-* <img align = "left" src="!https://user-images.githubusercontent.com/39142651/158639146-15b9a846-a444-45d7-b700-413b3a4e9db0" width="30" class="center"/>VS Code
+* <img align = "left" src="https://user-images.githubusercontent.com/39142651/158639146-15b9a846-a444-45d7-b700-413b3a4e9db0.png" width="30" class="center"/>VS Code
 
 ***
 
