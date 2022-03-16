@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 ***
 
 ### Languages and Tools: 
-* <img align = "left" src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" width="30" class="center"/>Dart
+* <img align = "left" src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" width="30" height="30"/>Dart
 
-* <img align = "left" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" width="30" class="center"/>Flutter
+* <img align = "left" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" width="30" height="30"/>Flutter
 
-* <img align = "left" src="https://camo.githubusercontent.com/4ded50180a0204fbc9a1ac05faf77bba7fa0f092f42f5c714f7d450f878e5d62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e64726f69642f616e64726f69642d69636f6e2e737667" width="30" class="center"/>Android
+* <img align = "left" src="https://camo.githubusercontent.com/4ded50180a0204fbc9a1ac05faf77bba7fa0f092f42f5c714f7d450f878e5d62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e64726f69642f616e64726f69642d69636f6e2e737667" width="30" height="30"/>Android
 
-* <img align = "left" src="https://user-images.githubusercontent.com/39142651/158639146-15b9a846-a444-45d7-b700-413b3a4e9db0.png" width="30" class="center"/>VS Code
+* <img align = "left" src="https://user-images.githubusercontent.com/39142651/158639146-15b9a846-a444-45d7-b700-413b3a4e9db0.png" width="30" height="30"/>VS Code
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/E80A491B-9C18-4E52-8B40-38F86EF1720A.png" width="25" class="center"/>Firebase
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/E80A491B-9C18-4E52-8B40-38F86EF1720A.png" width="25" height="30"/>Firebase
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/D889D61D-65EC-406A-A9BE-5248EAB9832A.png" width="30" class="center"/>HTML
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/D889D61D-65EC-406A-A9BE-5248EAB9832A.png" width="30" height="30"/>HTML
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/A47FF588-2AF9-4558-86FB-58FB91EAF5EF.webp" width="30" class="center"/>CSS
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/A47FF588-2AF9-4558-86FB-58FB91EAF5EF.webp" width="30" height="30"/>CSS
 
 ***
 
