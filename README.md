@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/A47FF588-2AF9-4558-86FB-58FB91EAF5EF.webp" width="30" height="30"/>CSS
 
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/6468B9C1-165A-4466-9352-25C6CB0EFCF5.png" width="30" height="30"/>JavaScript
+
 ***
 
 ![](https://camo.githubusercontent.com/24a5dd5773b470e0729aa41ac52252e7839f808768f3d1d4bf10ae1aba233dc2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7468652d4a696e78697374266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
