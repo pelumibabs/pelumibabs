@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 * :handshake: Open for collaborations in Mobile App Development with Flutter/Android.
 * :handshake: Open for collaborations in Innovation and Startups
 * :new_moon_with_face: Fun fact: I do a little bit of UI design with Figma.
+* :mailbox: Please reach me on my email: pelumibabs@outlook.com
+
+***
+
+### Languages and Tools: 
+* https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667 Dart
+* 
