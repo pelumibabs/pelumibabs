@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/9EE96B2A-49CE-4E8E-AB15-2FCB05C8EA88.png" width="30" height="30"/>JavaScript
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/9EE96B2A-49CE-4E8E-AB15-2FCB05C8EA88.png" width="30" height="30"/>Python
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/5848152fcef1014c0b5e4967" width="30" height="30"/>Python
 
 ***
 
