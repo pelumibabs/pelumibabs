@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ***
 
 ### Languages and Tools: 
-* <img align = "left" src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667](https://camo.githubusercontent.com/843563a22d9907b87a7f821971d6fe0a047a8f1a10dfc8b909a58e88d8af8225/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646172742e737667" width="30" height="30"/>Dart
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/Dart_programming_language_logo_icon.svg.png" width="30" height="30"/>Dart
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/b8ef8e4393a3c56e6100abeae807b3007b469482/flutter-icon-826x1024-4ksxnd3g.png" width="30" height="30"/>Flutter
 
