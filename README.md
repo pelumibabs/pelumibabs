@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 * <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/5848152fcef1014c0b5e4967" width="30" height="30"/>Python
 
-* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/cq5dam.web.1280.1280.png" width="60" height="60"/> C# .NET 
+* <img align = "left" src="https://github.com/pelumibabs/pelumibabs/blob/main/Logo_C_sharp.png" width="60" height="60"/> C# .NET 
 
 ***
 
